@@ -22,7 +22,7 @@ I'm a passionate full-stack developer with experience in building responsive and
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 171 Contributions in the Year 2024
+> 🏆 174 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,27 +33,23 @@ I'm a passionate full-stack developer with experience in building responsive and
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-🌆 Daytime                157 commits         ███████████████░░░░░░░░░░   60.38 % 
-🌃 Evening                66 commits          ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
-🌙 Night                  17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+🌞 Morning                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+🌆 Daytime                160 commits         ███████████████░░░░░░░░░░   60.84 % 
+🌃 Evening                66 commits          ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+🌙 Night                  17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 ```
-
-
-📊 **This Week I Spent My Time On** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-🕑︎ Time Zone: America/Indiana/Indianapolis
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
+Monday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Tuesday                  54 commits          █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+Wednesday                66 commits          ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+Thursday                 52 commits          █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Friday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Sunday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
 ```
+
 
 **I Mostly Code in JavaScript** 
 
@@ -68,7 +64,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2024 22:39:31 UTC
+ Last Updated on 03/11/2024 22:51:13 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Let's Connect
