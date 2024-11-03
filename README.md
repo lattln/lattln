@@ -12,9 +12,18 @@ I'm a passionate full-stack developer with experience in building responsive and
 ## 📈 My Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 27 October 2024 - To: 03 November 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/lin-latt)
+- **LinkedIn:** [Lattln](https://linkedin.com/in/lin-latt)
 <!-- - **Portfolio:** [Your Portfolio](https://yourportfolio.com) -->
