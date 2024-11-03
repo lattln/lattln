@@ -16,5 +16,5 @@ I'm a passionate full-stack developer with experience in building responsive and
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/lin-latt)
+- **LinkedIn:** [Lattln](https://linkedin.com/in/lin-latt)
 <!-- - **Portfolio:** [Your Portfolio](https://yourportfolio.com) -->
