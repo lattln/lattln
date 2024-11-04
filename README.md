@@ -3,7 +3,7 @@
 I'm a passionate full-stack developer with experience in building responsive and scalable web applications. I enjoy working with modern technologies and continuously learning to improve my skills.
 
 ### 📈 My Coding Activity 
-<img src="https://github.com/user-attachments/assets/6cec4854-3eec-4600-9120-9be1d3cb2bfe" width="400" align="right">
+<img src="https://github.com/user-attachments/assets/6cec4854-3eec-4600-9120-9be1d3cb2bfe" width="350" align="right">
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-207.8%20thousand%20lines%20of%20code-blue)
