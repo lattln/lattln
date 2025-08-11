@@ -25,5 +25,3 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS:   "False"
           SHOW_OS:              "False"
-          COMMIT_USERNAME:    lattln
-          COMMIT_EMAIL:       ${{ secrets.EMAIL }}
