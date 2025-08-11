@@ -2,8 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 00:00 IST (18:30 UTC) every 2nd day of the month
-      - cron: '30 18 1-31/2 * *'
+    # Runs daily at 00:00 IST (18:30 UTC)
+    - cron: '30 18 * * *'
   workflow_dispatch:
 
 jobs:
