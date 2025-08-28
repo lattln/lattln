@@ -12,8 +12,6 @@ I'm a passionate full-stack developer with experience in building responsive and
 
 > 📦 88.0 kB Used in GitHub's Storage 
  > 
-> 🏆 294 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -54,7 +52,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2025 18:44:11 UTC
+ Last Updated on 28/08/2025 18:46:43 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Let's Connect
