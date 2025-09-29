@@ -12,7 +12,7 @@ I'm a passionate full-stack developer with experience in building responsive and
 
 > 📦 88.0 kB Used in GitHub's Storage 
  > 
-> 🏆 389 Contributions in the Year 2025
+> 🏆 390 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -20,6 +20,27 @@ I'm a passionate full-stack developer with experience in building responsive and
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                32 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+🌆 Daytime                636 commits         ███████████████░░░░░░░░░░   59.83 % 
+🌃 Evening                175 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+🌙 Night                  220 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   172 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Tuesday                  148 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Wednesday                99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Thursday                 252 commits         ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+Friday                   211 commits         █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Saturday                 57 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Sunday                   124 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+```
+
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -33,7 +54,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2025 18:41:27 UTC
+ Last Updated on 29/09/2025 18:46:03 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Let's Connect
