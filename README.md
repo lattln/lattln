@@ -6,13 +6,13 @@ I'm a passionate full-stack developer with experience in building responsive and
 <img src="https://github.com/user-attachments/assets/6cec4854-3eec-4600-9120-9be1d3cb2bfe"  width="400px" align="right">
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-463.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-463.71%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 88.2 kB Used in GitHub's Storage 
  > 
-> 🏆 738 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -54,7 +54,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 18:49:14 UTC
+ Last Updated on 01/01/2026 18:50:29 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Let's Connect
