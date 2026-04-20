@@ -1,9 +1,15 @@
-# Hi there 👋, I'm Lin Latt
+<h2>Hi there 👋, I'm Lin Latt</h2>
 
-I'm a passionate full-stack developer with experience in building responsive and scalable web applications. I enjoy working with modern technologies and continuously learning to improve my skills.
+<img src="https://github.com/user-attachments/assets/3abc9683-372c-4bb6-9165-3b139fb332ff" width="400" align="right" />
 
-### 📈 My Coding Activity 
-<img src="https://github.com/user-attachments/assets/6cec4854-3eec-4600-9120-9be1d3cb2bfe"  width="400px" align="right">
+<p>
+I build web applications and systems that solve real problems. I enjoy taking ideas from concept to production,
+working with modern stacks like React and TypeScript, and creating solutions that are intuitive for users and maintainable for developers.
+</p>
+<br><br><br><br><br><br><br><br>
+<!-- ⬇️ IMPORTANT: blank line after table -->
+
+### 📈 My Coding Activity
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-496.39%20thousand%20lines%20of%20code-blue?style=flat)
