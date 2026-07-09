@@ -12,55 +12,55 @@ working with modern stacks like React and TypeScript, and creating solutions tha
 ### 📈 My Coding Activity
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-734.54%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-731.44%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 97.0 kB Used in GitHub's Storage 
+> 📦 89.9 kB Used in GitHub's Storage 
  > 
-> 🏆 583 Contributions in the Year 2026
+> 🏆 587 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-🌆 Daytime                683 commits         █████████████░░░░░░░░░░░░   50.67 % 
-🌃 Evening                355 commits         ███████░░░░░░░░░░░░░░░░░░   26.34 % 
-🌙 Night                  259 commits         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+🌞 Morning                51 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+🌆 Daytime                682 commits         █████████████░░░░░░░░░░░░   50.71 % 
+🌃 Evening                353 commits         ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+🌙 Night                  259 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   190 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Tuesday                  162 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Wednesday                133 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-Thursday                 272 commits         █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Friday                   254 commits         █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-Saturday                 145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Sunday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Monday                   189 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Tuesday                  160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Wednesday                133 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Thursday                 272 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Friday                   254 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Saturday                 145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Sunday                   192 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 ```
 
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               14 repos            ████████████░░░░░░░░░░░░░   48.28 % 
-TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+JavaScript               13 repos            ████████████░░░░░░░░░░░░░   48.15 % 
+TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 08/07/2026 20:00:28 UTC
+ Last Updated on 09/07/2026 20:14:20 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Let's Connect
