@@ -62,13 +62,13 @@ JavaScript               13 repos            ██████████░�
 TypeScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
 HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
 
 
- Last Updated on 14/10/2026 21:50:42 UTC
+ Last Updated on 15/10/2026 21:34:37 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 Let's Connect
